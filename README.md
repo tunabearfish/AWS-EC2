@@ -56,11 +56,16 @@ For this example I already have one made
 In the "Configure Storage" step, configure the storage options for your instance. You can specify the root volume size and add additional storage volumes if needed.
 ![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/491b237c-8665-49eb-8435-39e57de8c178)
 
-I configured my storage as: ![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/549d7212-adfd-4219-940e-c0bf1255ff0d)
+I configured my storage as above
 
 
 
-### 10. Launch Instances
+### 10. Review and Launch Instance
+Review your instance configuration in the "Review Instance Launch" step to ensure it's correct. You can also click "Edit" to make changes if necessary.
+
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/5b8b43b9-3d3b-4805-8a34-357eb51f2864)
+
+
 
 ### 11. View instances
 
