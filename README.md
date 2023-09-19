@@ -11,12 +11,28 @@
 
 
 ### 2. Launch an instance
+You can start with giving your EC2 a name:
 
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/ecfe7258-7b51-4051-87d0-044f2136797b)
+
+
+For this example - We will go with AWS-EC2-Example
 
 ### 3. Choose Amazon Machine Image(AMI)
+In this step: "Choose an Amazon Machine Image(AMI)" select an AMI that suits your requirements, AMI's are pre-configured tempaltes for different OS and applications.
 
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/eacf53d2-4edf-4c9e-8c50-ded4d0104666)
+
+
+For this example, we will choose Amazon Linux
 
 ### 6. Choose an Instance Type
+In "Choose an instance Type": Select the instance type that meets your performance and resource needs. You can see additional details about each instance type( CPU, Memory, and Network Performance)
+
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/5df56911-8b90-4bd1-adf5-698bbfec26dd)
+
+
+For this example, we will choose t2.micro( this is a free tier)
 
 ### 6. Configure instance Details
 
