@@ -40,18 +40,24 @@ If you don't have an existing key pair, you'll need to create one. A Key Pair is
 
 
 For this example I already have one made
+### 7. Configure Network settings
+  Choose a VPC or create one(VPC's are required)
 
-### 5. Configure Security Groups
-
-### 7. Review and Launch
+  ![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/5ce31941-ee42-4b5c-8ee3-69dd0c658cb6)
 
 
-### 6. Launch Instances
+  I have chosen a default VPC
+### 8. Configure Security Groups
+  In the "Configure Security Group" step, you can either create a new security group or select an existing one. Security groups act as virtual firewalls for your instances, controlling inbound and outbound traffic.
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/7e3cce92-2d58-4480-894e-7d5fd7a8b760)
 
-### 6. View instances
+  For this, I will be selecting a Security Group that I have already made
+### 9. Configure Storage
 
-### 6. Accessing your EC2 instance
 
+### 10. Launch Instances
+
+### 11. View instances
 
 
 ## 🚫 Troubleshooting
