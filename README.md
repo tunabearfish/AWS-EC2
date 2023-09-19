@@ -53,6 +53,11 @@ For this example I already have one made
 
   For this, I will be selecting a Security Group that I have already made
 ### 9. Configure Storage
+In the "Configure Storage" step, configure the storage options for your instance. You can specify the root volume size and add additional storage volumes if needed.
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/491b237c-8665-49eb-8435-39e57de8c178)
+
+I configured my storage as: ![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/549d7212-adfd-4219-940e-c0bf1255ff0d)
+
 
 
 ### 10. Launch Instances
