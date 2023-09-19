@@ -54,6 +54,7 @@ For this example I already have one made
   For this, I will be selecting a Security Group that I have already made
 ### 9. Configure Storage
 In the "Configure Storage" step, configure the storage options for your instance. You can specify the root volume size and add additional storage volumes if needed.
+
 ![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/491b237c-8665-49eb-8435-39e57de8c178)
 
 I configured my storage as above
@@ -67,7 +68,12 @@ Review your instance configuration in the "Review Instance Launch" step to ensur
 
 
 
-### 11. View instances
+### 11. Access your EC2 Instance
+Once the instance status changes from "pending" to "running," you can connect to it using SSH (for Linux) or RDP (for Windows) using the key pair you created.
+That's it! You've successfully created an EC2 instance in AWS. Remember to manage your instances, security groups, and other resources as needed for your specific use case. Don't forget to stop or terminate instances when you're done to avoid incurring unnecessary charges.
+
+![image](https://github.com/tunabearfish/AWS-EC2/assets/65553627/0ed32115-9a77-4177-ae74-403946f20b00)
+
 
 
 ## 🚫 Troubleshooting
